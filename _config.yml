@@ -11,7 +11,7 @@ email: xpunkerx@gmail.com
 description: Software Engineer, Tech Lead, People Manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rozhkov.me" # the base hostname & protocol for your site
-github_username:  xpunkerx
+github_username:  rozhok
 
 # Build settings
 markdown: kramdown
