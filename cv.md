@@ -16,9 +16,11 @@ June 2015 – present</p>
 Doing awesome stuff with awesome people
 </div>
 </p>
+<br>
 <hr>
-<p>Technical Manager at NetCracker<br/>
-January 2013 – May 2015, Kyiv, Ukraine</p>
+<br>
+<p>Technical Manager at NetCracker, Kyiv, Ukraine<br/>
+January 2013 – May 2015</p>
 
 <p>
 <div class="manual-content">
