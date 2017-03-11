@@ -1,4 +1,4 @@
-baseurl = "http://www.rozhkov.me/"
+baseurl = "https://www.rozhkov.me/"
 languageCode = "en"
 title = "Vladimir Rozhkov"
 theme = "hucore"
