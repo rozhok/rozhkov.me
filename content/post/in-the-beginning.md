@@ -1,7 +1,7 @@
 +++
 author = "Vladimir Rozhkov"
 draft = false
-tags = ["bible","chirst"]
+tags = ["christianity"]
 categories = ["personal"]
 description = ""
 date = "2016-10-24T23:30:26+02:00"
