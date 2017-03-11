@@ -1,4 +1,4 @@
-<img src="http://www.rozhkov.me/favicon.ico" width="32px" height="32px" />
+<img src="https://www.rozhkov.me/favicon.ico" width="16px" height="16px" />
 
 This is my blog: [www.rozhkov.me](http://www.rozhkov.me)
 
