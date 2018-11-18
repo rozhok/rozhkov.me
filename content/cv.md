@@ -4,14 +4,31 @@ date = "2016-10-25"
 menu = "main"
 +++
 
-Java, Python, Node.JS, Bash, Spring (Boot/Cloud), Netflix OSS, Spark, AWS, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle/Maven, Git, Jenkins, Jira, IntelliJ IDEA, etc…
-
+Software engineer, technical/team lead, people manager. Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…
 ## Experience
+
+### Software Architect/Engineer/Manager at Devlify, Kyiv, Ukraine
+Dec 2015 – Present
+
+I am responsible for APMCheck [http://apm-check.ru/](http://apm-check.ru/) architecture and reliability.
+Built CI/CD stuff, infrastructure-as-a-code, setup DB backups and replication, designed backend using PHP (initial version) and then re-wrote all on Java/Spring Boot, wrote admin UI using Ruby on Rails.
+Built image similarity comparison service using OpenCV.
+Tech used: Spring Boot, MariaDB, Ruby on Rails, AWS S3/SQS/Lambda, Jelastic.
+
+I am responsible for Grably [http://www.grably.net/](http://www.grably.net/) architecture and reliability.
+Tech used: Ruby on Rails for UI, dashboards and batch jobs, Python/Scrapy/Splash for scraping, OpenCV for images comparison, Postgresql.
+
+That's biggest my achievements in this position, apart from that I've built a lot of prototypes for sales demos and smaller services/apps.
 
 ### Software Development Engineer at OneDome, Kyiv, Ukraine
 June 2015 – present
 
-Doing awesome stuff with awesome people
+Working mostly with infrastructure and site reliability of [OneDome](http://www.onedome.com).
+Employee #2 and first software engineer here. Designed and built microservices blueprints using Spring Boot, Netflix OSS stack, Docker, AWS ECS and CloudFormation for infrastructure-as-a-code.
+Built blue-green CI/CD pipelines using Jenkins Pipelines.
+Wrote a lot of custom stuff related to deployment and monitoring.
+
+Tech used: Spring Boot, Spring Cloud Netflix (Eureka/Ribbon/Zuul/Hystrix), almost all AWS services, Java, Python, Node, Bash.
 
 ### Technical Manager at NetCracker, Kyiv, Ukraine
 January 2013 – May 2015
