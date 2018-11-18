@@ -14,6 +14,7 @@ faviconfile = "https://www.rozhkov.me/favicon.ico"
 latestpostcount = 5
 logofile = "https://www.rozhkov.me/favicon.ico"
 highlightjs = true
+ga = "UA-86260054-1"
 
 #[[params.best_posts]]
 #title = "Migrate to Hugo from Jekyll"
