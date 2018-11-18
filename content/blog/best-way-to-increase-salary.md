@@ -1,7 +1,6 @@
 ---
 title: "О повышении зарплаты"
 date: 2018-11-18T16:12:48+02:00
-draft: false
 tags: ["career", "advice"]
 ---
 
