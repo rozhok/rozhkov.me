@@ -5,6 +5,7 @@ copyright = "&copy; 2017 | Follow on <a href=\"https://twitter.com/xrozhokx\" ta
 paginate = 3
 theme = "alageek"
 title = "Vladimir Rozhkov"
+DisqusShortname = "rozhkov"
 
 [params]
 copyright = "© 2018 by Vladimir Rozhkov"
