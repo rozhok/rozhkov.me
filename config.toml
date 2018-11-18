@@ -1,45 +1,43 @@
+author = "Vladimir Rozhkov"
 baseurl = "https://www.rozhkov.me/"
-languageCode = "en"
+canonifyurls = true
+copyright = "&copy; 2017 | Follow on <a href=\"https://twitter.com/xrozhokx\" target=\"_blank\">Twitter</a>"
+paginate = 3
+theme = "alageek"
 title = "Vladimir Rozhkov"
-theme = "hucore"
-copyright = "&copy; 2017 | Follow on <a href=\"https://twitter.com/xrozhokx\" target=\"_blank\">Twitter</a> | <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Hucore theme</a> & <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
-disqusShortname = "rozhkov"
-googleAnalytics = "UA-86260054-1"
-
-[taxonomies]
-tag = "tags"
-category = "categories"
 
 [params]
-description = "Blog about stuff"
-keywords = ["tech", "software", "development"]
-author = "Vladimir Rozhkov"
-sharingicons = true
+copyright = "© 2018 by Vladimir Rozhkov"
+copyrightUrl = "https://www.rozhkov.me/"
+faviconfile = "https://www.rozhkov.me/favicon.ico"
+latestpostcount = 5
+logofile = "https://www.rozhkov.me/favicon.ico"
+highlightjs = true
 
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
+#[[params.best_posts]]
+#title = "Migrate to Hugo from Jekyll"
+#url = "/blog/migrate-from-jekyll/"
 
-[[params.social]]
-url = "https://github.com/rozhok"
-fa_icon = "fa-github"
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
 
-[[params.social]]
-url = "https://gitlab.com/xpunkerx"
-fa_icon = "fa-gitlab"
+[[menu.primary]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 20
 
-[[params.social]]
+[[menu.secondary]]
+identifier = "twitter"
+name = "Twitter"
 url = "https://twitter.com/xrozhokx"
-fa_icon = "fa-twitter"
+weight = 110
 
-[[params.social]]
-url = "https://linkedin.com/in/rozhok"
-fa_icon = "fa-linkedin-square"
-
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
-
-[[params.socialshare]]
-url = "https://linkedin.com/in/rozhok"
-fa_icon = "fa-linkedin-square"
+[[menu.secondary]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/full_of_hatred"
+weight = 120

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advice on Vladimir Rozhkov</title>
+    <link>https://www.rozhkov.me/tags/advice/</link>
+    <description>Recent content in Advice on Vladimir Rozhkov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/xrozhokx&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 17 Nov 2018 10:02:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.rozhkov.me/tags/advice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О найме в компанию и на проекты</title>
+      <link>https://www.rozhkov.me/blog/company-vs-project/</link>
+      <pubDate>Sat, 17 Nov 2018 10:02:49 +0200</pubDate>
+      
+      <guid>https://www.rozhkov.me/blog/company-vs-project/</guid>
+      <description>Наниматься в компанию или проект? &amp;ldquo;Работать в нашем банке — большая честь&amp;rdquo; © Думаю, все помнят притчу о мотивации — где три каменотеса на вопрос, чем они заняты, отвечали, последовательно, &amp;ldquo;я обтесываю камень и несчастен потому что мало платят&amp;rdquo;, &amp;ldquo;я обтесываю камень и рад что у меня есть работа и я могу кормить семью&amp;rdquo; и &amp;ldquo;я строю храм!&amp;rdquo;. Задачей и мотивацией каждого инженера должно быть именно строительство храмов. Не работа ради денег, не работа ради работы, а работа ради осязаемого результата.</description>
+    </item>
+    
+  </channel>
+</rss>

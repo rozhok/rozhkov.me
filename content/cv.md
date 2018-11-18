@@ -2,10 +2,9 @@
 title = "CV"
 date = "2016-10-25"
 menu = "main"
-disqus = false
 +++
 
-*Buzzwords*: Java, Python, Node.JS, Bash, Spring (Boot/Cloud), Netflix OSS, Spark, AWS, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle/Maven, Git, Jenkins, Jira, IntelliJ IDEA, etc…
+Java, Python, Node.JS, Bash, Spring (Boot/Cloud), Netflix OSS, Spark, AWS, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle/Maven, Git, Jenkins, Jira, IntelliJ IDEA, etc…
 
 ## Experience
 

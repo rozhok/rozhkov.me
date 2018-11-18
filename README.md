@@ -2,6 +2,11 @@
 
 This is my blog: [www.rozhkov.me](http://www.rozhkov.me)
 
+## How to build
+
+1. brew install hugo
+2. hugo
+
 ## License
 
 Copyright (c) 2016-2017 Vladimir Rozhkov
