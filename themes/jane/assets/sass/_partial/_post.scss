@@ -4,7 +4,7 @@
 
 .post {
   padding: 3em 5em;
-  margin: 0 5em 3em;
+  margin: 0 5em 0;
 
   @import '_post/header';
   @import '_post/toc';
@@ -33,7 +33,7 @@
   }
 
   .content-wrapper {
-    padding: 1em 0 1px;
+    padding: 0 0 1px;
   }
 }
 
@@ -47,7 +47,7 @@
   }
 
   .content-wrapper {
-    padding: 2em 0 1px;
+    padding: 0 0 1px;
   }
 }
 
@@ -62,7 +62,7 @@
   }
 
   .content-wrapper {
-    padding: 1em 0 1px;
+    padding: 0 0 1px;
   }
 
 }
