@@ -4,7 +4,12 @@
 
 .site-navbar {
   .menu {
-    padding-right: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    //padding-right: 15px;
     font-family: $global-serif-font-family;
 
     .active {
