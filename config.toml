@@ -22,7 +22,7 @@ copyright = ""
 #  tag = "tags"
 #  category = "categories"
 
-defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguage = "ru"           # Default language to use
 [langusges]
 [languages.en]
   title = "Blog @ rozhkov.me"
