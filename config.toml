@@ -99,6 +99,7 @@ defaultContentLanguage = "ru"           # Default language to use
     a-email = "mailto:xpunker@gmail.com"
     b-stack-overflow = "https://stackoverflow.com/users/1434854/vladimir-rozhkov?tab=profile"
     c-twitter = "https://twitter.com/xrozhokx"
+    c-telegram = "https://t.me/full_of_hatred"
     e-linkedin = "https://linkedin.com/in/rozhok"
     g-github = "https://github.com/rozhok"
     n-gitlab = "https://gitlab.com/xpunkerx"
