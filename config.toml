@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.rozhkov.me/"
 title = "Blog @ rozhkov.me"
 enableRobotsTXT = true
 theme = "jane"

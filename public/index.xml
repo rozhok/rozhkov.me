@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog @ rozhkov.me</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.rozhkov.me/</link>
     <description>Recent content on Blog @ rozhkov.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.rozhkov.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.rozhkov.me/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.rozhkov.me/about/</guid>
       
         <description>&lt;p&gt;Hello, I&amp;rsquo;m Vladimir Rozhkov, software engineer.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m mostly working with Java and Ruby, writing CRUD apps and plumbing libs together to make things work.&lt;/p&gt;
 
-&lt;p&gt;Read my &lt;a href=&#34;http://localhost:1313/en/cv&#34;&gt;CV&lt;/a&gt; for more details. Drop me a message to &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; or in &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Telegram&lt;/a&gt; if you interested in my expertise.&lt;/p&gt;
+&lt;p&gt;Read my &lt;a href=&#34;https://www.rozhkov.me/en/cv&#34;&gt;CV&lt;/a&gt; for more details. Drop me a message to &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; or in &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Telegram&lt;/a&gt; if you interested in my expertise.&lt;/p&gt;
 
 &lt;p&gt;Occasionally I&amp;rsquo;m writing rants about software development industry, career and bad UX.&lt;/p&gt;
 
@@ -32,10 +32,10 @@
     
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://www.rozhkov.me/cv/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://www.rozhkov.me/cv/</guid>
       
         <description>
 

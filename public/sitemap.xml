@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://localhost:1313/en/sitemap.xml</loc>
+	   	<loc>https://www.rozhkov.me/en/sitemap.xml</loc>
 		
 	   	<lastmod>2017-08-28T21:41:52+08:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://localhost:1313/ru/sitemap.xml</loc>
+	   	<loc>https://www.rozhkov.me/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2018-11-18T16:12:48+02:00</lastmod>
 		

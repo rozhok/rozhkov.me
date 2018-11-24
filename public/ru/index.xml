@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog @ rozhkov.me</title>
-    <link>http://localhost:1313/ru/</link>
+    <link>https://www.rozhkov.me/ru/</link>
     <description>Recent content on Blog @ rozhkov.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.rozhkov.me/ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Обо мне</title>
-      <link>http://localhost:1313/ru/about/</link>
+      <link>https://www.rozhkov.me/ru/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/ru/about/</guid>
+      <guid>https://www.rozhkov.me/ru/about/</guid>
       
         <description>&lt;p&gt;Привет, я Владимир Рожков, разработчик, техлид, менеджер.&lt;/p&gt;
 
-&lt;p&gt;В основном я работаю с Java и Ruby, пишу круды, клепаю формы и скручиваю в кучу разные либы чтобы заставить пролдукт работать. Хорошо умею в автоматизацию установки всего этого добра на сервера. Почитайте мое &lt;a href=&#34;http://localhost:1313/en/cv&#34;&gt;CV&lt;/a&gt;. Если вам интересна моя экспертиза, пишите на &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; или в &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Телеграм&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;В основном я работаю с Java и Ruby, пишу круды, клепаю формы и скручиваю в кучу разные либы чтобы заставить пролдукт работать. Хорошо умею в автоматизацию установки всего этого добра на сервера. Почитайте мое &lt;a href=&#34;https://www.rozhkov.me/en/cv&#34;&gt;CV&lt;/a&gt;. Если вам интересна моя экспертиза, пишите на &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; или в &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Телеграм&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Время от времени пишу всякую дичь об индустрии, карьере и плохом UX.&lt;/p&gt;
 
@@ -32,10 +32,10 @@
     
     <item>
       <title>О повышении зарплаты</title>
-      <link>http://localhost:1313/ru/post/best-way-to-increase-salary/</link>
+      <link>https://www.rozhkov.me/ru/post/best-way-to-increase-salary/</link>
       <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
       
-      <guid>http://localhost:1313/ru/post/best-way-to-increase-salary/</guid>
+      <guid>https://www.rozhkov.me/ru/post/best-way-to-increase-salary/</guid>
       
         <description>&lt;p&gt;Лучший способ поднять зарплату — поменять работу.&lt;/p&gt;
 
@@ -65,10 +65,10 @@
     
     <item>
       <title>О найме в компанию и на проекты</title>
-      <link>http://localhost:1313/ru/post/company-vs-project/</link>
+      <link>https://www.rozhkov.me/ru/post/company-vs-project/</link>
       <pubDate>Sat, 17 Nov 2018 10:02:49 +0200</pubDate>
       
-      <guid>http://localhost:1313/ru/post/company-vs-project/</guid>
+      <guid>https://www.rozhkov.me/ru/post/company-vs-project/</guid>
       
         <description>&lt;p&gt;Наниматься в компанию или проект? &amp;ldquo;Работать в нашем банке — большая честь&amp;rdquo; ©&lt;/p&gt;
 
@@ -91,10 +91,10 @@
     
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/ru/cv/</link>
+      <link>https://www.rozhkov.me/ru/cv/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/cv/</guid>
+      <guid>https://www.rozhkov.me/ru/cv/</guid>
       
         <description>
 

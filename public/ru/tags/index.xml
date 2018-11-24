@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog @ rozhkov.me</title>
-    <link>http://localhost:1313/ru/tags/</link>
+    <link>https://www.rozhkov.me/ru/tags/</link>
     <description>Recent content in Tags on Blog @ rozhkov.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 18 Nov 2018 16:12:48 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.rozhkov.me/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advice</title>
-      <link>http://localhost:1313/ru/tags/advice/</link>
+      <link>https://www.rozhkov.me/ru/tags/advice/</link>
       <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/advice/</guid>
+      <guid>https://www.rozhkov.me/ru/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Career</title>
-      <link>http://localhost:1313/ru/tags/career/</link>
+      <link>https://www.rozhkov.me/ru/tags/career/</link>
       <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/career/</guid>
+      <guid>https://www.rozhkov.me/ru/tags/career/</guid>
       <description></description>
     </item>
     
