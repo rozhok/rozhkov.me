@@ -5,7 +5,7 @@
     <link>https://www.rozhkov.me/tags/</link>
     <description>Recent content in Tags on Blog @ rozhkov.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Nov 2018 16:12:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Nov 2018 12:15:11 +0200</lastBuildDate>
     
 	<atom:link href="https://www.rozhkov.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Advice</title>
       <link>https://www.rozhkov.me/tags/advice/</link>
-      <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
+      <pubDate>Sat, 24 Nov 2018 12:15:11 +0200</pubDate>
       
       <guid>https://www.rozhkov.me/tags/advice/</guid>
       <description></description>
@@ -22,9 +22,18 @@
     <item>
       <title>Career</title>
       <link>https://www.rozhkov.me/tags/career/</link>
-      <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
+      <pubDate>Sat, 24 Nov 2018 12:15:11 +0200</pubDate>
       
       <guid>https://www.rozhkov.me/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://www.rozhkov.me/tags/philosophy/</link>
+      <pubDate>Tue, 20 Nov 2018 09:17:11 +0200</pubDate>
+      
+      <guid>https://www.rozhkov.me/tags/philosophy/</guid>
       <description></description>
     </item>
     

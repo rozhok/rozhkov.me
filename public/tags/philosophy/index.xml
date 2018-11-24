@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Blog @ rozhkov.me</title>
+    <link>https://www.rozhkov.me/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Blog @ rozhkov.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Nov 2018 09:17:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.rozhkov.me/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Об измерении опыта в годах</title>
+      <link>https://www.rozhkov.me/post/experience-in-years/</link>
+      <pubDate>Tue, 20 Nov 2018 09:17:11 +0200</pubDate>
+      
+      <guid>https://www.rozhkov.me/post/experience-in-years/</guid>
+      <description>На нескольких собеседованиях рекрутеры спрашивали меня, например, &amp;ldquo;Скажите, сколько лет вы работаете с AWS?&amp;rdquo;. Я обычно отвечал что года не имеют особого значения, зато имеет большое значение, что делать в это время.
+Попались? 😄 Шутка, на самом деле я так конечно же не отвечал, потому что последнее, что хочет слышать рекрутер, это философствования о том, как нужно правильно и объективно измерять опыт, как составлять вакансии и как ему делать его работу.</description>
+    </item>
+    
+  </channel>
+</rss>
