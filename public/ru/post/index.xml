@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog @ rozhkov.me</title>
+    <link>http://localhost:1313/ru/post/</link>
+    <description>Recent content in Posts on Blog @ rozhkov.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Nov 2018 16:12:48 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О повышении зарплаты</title>
+      <link>http://localhost:1313/ru/post/best-way-to-increase-salary/</link>
+      <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ru/post/best-way-to-increase-salary/</guid>
+      <description>Лучший способ поднять зарплату — поменять работу.
+Почему так? Когда бизнес и почему бизнес может платить человеку больше денег? Когда деятельность этого человека имеет непосредственное влияние на прибыль компании, или когда рыночная стоимость этого человека повысилась и он может продать себя уже подороже. С первым пунктом все очень сложно. Непосредственный результат труда в деньгах, как правило, выразить очень сложно.
+Программист Петя оптимизировал скорость выполнения автоматических тестов с 60 минут до 50.</description>
+    </item>
+    
+    <item>
+      <title>О найме в компанию и на проекты</title>
+      <link>http://localhost:1313/ru/post/company-vs-project/</link>
+      <pubDate>Sat, 17 Nov 2018 10:02:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ru/post/company-vs-project/</guid>
+      <description>Наниматься в компанию или проект? &amp;ldquo;Работать в нашем банке — большая честь&amp;rdquo; ©
+Думаю, все помнят притчу о мотивации — где три каменотеса на вопрос, чем они заняты, отвечали, последовательно, &amp;ldquo;я обтесываю камень и несчастен потому что мало платят&amp;rdquo;, &amp;ldquo;я обтесываю камень и рад что у меня есть работа и я могу кормить семью&amp;rdquo; и &amp;ldquo;я строю храм!&amp;rdquo;.
+Задачей и мотивацией каждого инженера должно быть именно строительство храмов. Не работа ради денег, не работа ради работы, а работа ради осязаемого результата.</description>
+    </item>
+    
+  </channel>
+</rss>

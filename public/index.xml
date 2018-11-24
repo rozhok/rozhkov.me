@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog @ rozhkov.me</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog @ rozhkov.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hello, I&amp;rsquo;m Vladimir Rozhkov, software engineer.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m mostly working with Java and Ruby, writing CRUD apps and plumbing libs together to make things work.&lt;/p&gt;
+
+&lt;p&gt;Read my &lt;a href=&#34;http://localhost:1313/en/cv&#34;&gt;CV&lt;/a&gt; for more details. Drop me a message to &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; or in &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Telegram&lt;/a&gt; if you interested in my expertise.&lt;/p&gt;
+
+&lt;p&gt;Occasionally I&amp;rsquo;m writing rants about software development industry, career and bad UX.&lt;/p&gt;
+
+&lt;p&gt;Follow me on &lt;a href=&#34;https://t.me/full_of_hatred&#34;&gt;Telegram (ru)&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/xrozhokx&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      
+        <description>
+
+&lt;p&gt;Software engineer, technical/team lead, people manager.&lt;/p&gt;
+
+&lt;p&gt;Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…&lt;/p&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;software-architect-engineer-manager-at-devlify-kyiv-ukraine&#34;&gt;Software Architect/Engineer/Manager at Devlify, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;Dec 2015 – Present&lt;/p&gt;
+
+&lt;p&gt;I am responsible for APMCheck &lt;a href=&#34;http://apm-check.ru/&#34;&gt;http://apm-check.ru/&lt;/a&gt; architecture and reliability.
+Built CI/CD stuff, infrastructure-as-a-code, setup DB backups and replication, designed backend using PHP (initial version) and then re-wrote all on Java/Spring Boot, wrote admin UI using Ruby on Rails.
+Built image similarity comparison service using OpenCV.
+Tech used: Spring Boot, MariaDB, Ruby on Rails, AWS S3/SQS/Lambda, Jelastic.&lt;/p&gt;
+
+&lt;p&gt;I am responsible for Grably &lt;a href=&#34;http://www.grably.net/&#34;&gt;http://www.grably.net/&lt;/a&gt; architecture and reliability.
+Tech used: Ruby on Rails for UI, dashboards and batch jobs, Python/Scrapy/Splash for scraping, OpenCV for images comparison, Postgresql.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s biggest my achievements in this position, apart from that I&amp;rsquo;ve built a lot of prototypes for sales demos and smaller services/apps.&lt;/p&gt;
+
+&lt;h3 id=&#34;software-development-engineer-at-onedome-kyiv-ukraine&#34;&gt;Software Development Engineer at OneDome, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;June 2015 – present&lt;/p&gt;
+
+&lt;p&gt;Working mostly with infrastructure and site reliability of &lt;a href=&#34;http://www.onedome.com&#34;&gt;OneDome&lt;/a&gt;.
+Employee #2 and first software engineer here. Designed and built microservices blueprints using Spring Boot, Netflix OSS stack, Docker, AWS ECS and CloudFormation for infrastructure-as-a-code.
+Built blue-green CI/CD pipelines using Jenkins Pipelines.
+Wrote a lot of custom stuff related to deployment and monitoring.&lt;/p&gt;
+
+&lt;p&gt;Tech used: Spring Boot, Spring Cloud Netflix (Eureka/Ribbon/Zuul/Hystrix), almost all AWS services, Java, Python, Node, Bash.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-manager-at-netcracker-kyiv-ukraine&#34;&gt;Technical Manager at NetCracker, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;January 2013 – May 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CRM REST APIs project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: development of REST API’s for existing NC components&lt;/li&gt;
+&lt;li&gt;Acted as Project Manager, Technical Manager, SME&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve designed REST API’s for three business-critical NetCracker components&lt;/li&gt;
+&lt;li&gt;Proved that REST should be mainstream approach for building API’s&lt;/li&gt;
+&lt;li&gt;Created API guidelines and best practices for new components&lt;/li&gt;
+&lt;li&gt;Managed team from 4 devs, few QA’s and two performance engineers as lead architect and project manager&lt;/li&gt;
+&lt;li&gt;Delivered project in-time and in-budget&lt;/li&gt;
+&lt;li&gt;Technologies: Java, JAX-RS, Spring, rest-assured&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Order Entry project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: development of lot of new features in one of the most business critical and complex NC components – Business Order Entry. Team consisted from 30+ people including lead devs, devs, qa, performance guys, technical writers etc.&lt;/li&gt;
+&lt;li&gt;Acted as Technical Manager and SME&lt;/li&gt;
+&lt;li&gt;Built a team,  coached teamleads and senior devs, managed scope&lt;/li&gt;
+&lt;li&gt;Made a vital architectural decisions&lt;/li&gt;
+&lt;li&gt;Promoted changes in platform components – new ORM and other improvements&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, Test-Ng, WebDriver, Custom UI framework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;eCommerce project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: deliver self-service portal for one of US largest cable provider&lt;/li&gt;
+&lt;li&gt;Acted as Performance Engineer – resolved critical performance issues in solution&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, custom frameworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cloud architecture prototyping:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: create proof-of-technology of how to deploy business applications into cloud/how to make them distributed&lt;/li&gt;
+&lt;li&gt;Acted as SME and Technical Consultant&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, Eureka, Hystrix, custom frameworks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

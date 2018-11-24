@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog @ rozhkov.me</title>
+    <link>http://localhost:1313/ru/</link>
+    <description>Recent content on Blog @ rozhkov.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/ru/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/ru/about/</guid>
+      
+        <description>&lt;p&gt;Привет, я Владимир Рожков, разработчик, техлид, менеджер.&lt;/p&gt;
+
+&lt;p&gt;В основном я работаю с Java и Ruby, пишу круды, клепаю формы и скручиваю в кучу разные либы чтобы заставить пролдукт работать. Хорошо умею в автоматизацию установки всего этого добра на сервера. Почитайте мое &lt;a href=&#34;http://localhost:1313/en/cv&#34;&gt;CV&lt;/a&gt;. Если вам интересна моя экспертиза, пишите на &lt;a href=&#34;xpunkerx@gmail.com&#34;&gt;xpunkerx@gmail.com&lt;/a&gt; или в &lt;a href=&#34;https://t.me/xrozhokx&#34;&gt;Телеграм&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Время от времени пишу всякую дичь об индустрии, карьере и плохом UX.&lt;/p&gt;
+
+&lt;p&gt;Подписывайтесь на мой канал в &lt;a href=&#34;https://t.me/full_of_hatred&#34;&gt;Телеграме&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Добавляйте меня в &lt;a href=&#34;https://twitter.com/xrozhokx&#34;&gt;Твиттере&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>О повышении зарплаты</title>
+      <link>http://localhost:1313/ru/post/best-way-to-increase-salary/</link>
+      <pubDate>Sun, 18 Nov 2018 16:12:48 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ru/post/best-way-to-increase-salary/</guid>
+      
+        <description>&lt;p&gt;Лучший способ поднять зарплату — поменять работу.&lt;/p&gt;
+
+&lt;p&gt;Почему так? Когда бизнес и почему бизнес может платить человеку больше денег? Когда деятельность этого человека имеет непосредственное влияние на прибыль компании, или когда рыночная стоимость этого человека повысилась и он может продать себя уже подороже.
+С первым пунктом все очень сложно. Непосредственный результат труда в деньгах, как правило, выразить очень сложно.&lt;/p&gt;
+
+&lt;p&gt;Программист Петя оптимизировал скорость выполнения автоматических тестов с 60 минут до 50. Какой экономический эффект от этого? Программист Виталик за вечер отрефакторил старый статический класс-утилиту, повысив читаемость кода и его тестабельность. Как измерить это в деньгах? Разработчики теперь будут меньше времени тратить, чтобы разобраться в том, что происходит, но насколько меньше? Программист Елена перевела сайт на новую версию библиотеки и теперь он стал загружаться на 200 мс быстрее. Вот тут уже можно посмотреть метрики, конверсию, воронку и так далее и оценить это изменение в деньгах, каковые можно выплатить Елене бонусом. Но что делать с Петей и Виталиком? Они ведь тоже не просто так штаны протирают?&lt;/p&gt;
+
+&lt;p&gt;Вот тут то и кроется серьезный недостаток нашей индустрии — влияние на бизнес отдельно взятого человека оценить практически невозможно. Конечно, возможны качественные скачки, например, Фёдор делал сайты вручную и делал потоково 2 сайта в неделю. Потом Фёдор освоил Вордпресс и вот он уже делает 20 сайтов в неделю. Фёдор может смело идти к своему руководителю и апеллировать к результатам работы — ведь их явно видно.&lt;/p&gt;
+
+&lt;p&gt;Однако потоковой работы не так много, а чтобы оценить все остальное нужно думать, и думать много. А люди думать не любят, поэтому все работодатели платят за время, отсиженное вами в офисе. А если вам платят за время и непонятно, как оценить ваше влияние на результат то ставится под вопрос объективность оплаты и пересмотров.&lt;/p&gt;
+
+&lt;p&gt;Я нигде не видел такой объективной системы, где мне, как сотруднику, было бы четко и понятно сказано — «делай раз, делай два, через полгода +200$ если все сделал». Как правило, это все облекалось в какие-то нечеткие формы вроде «изучи фреймворк X, получи положительный фидбек от проекта а там будет видно». Чего греха таить, когда я работал менеджером, мне самому приходилось как-то выкручиваться, ты ведь не скажешь человеку: «Я не знаю, за что тебе поднять зарплату». Хуже того, тебе нужно еще и объяснить руководству, почему конкретному Стасу нужно платить больше денег. Как только ты начинаешь ставить какие-то объективные KPI, все сразу начинают работать на них и все ломается.&lt;/p&gt;
+
+&lt;p&gt;Как результат, ни в одной компании вам не скажут четко и ясно, что нужно сделать для того, чтобы получать больше денег. Все будет зависеть от вашего руководителя, его изобретательности и желания продвигать собственных сотрудников.&lt;/p&gt;
+
+&lt;p&gt;Какой же выход? Я думаю вы уже поняли. Если никто не может объективно оценить, сколько стоит ваша работа на конкретном месте, пусть вашу цену определяет рынок! Просто идем со своим багажом знаний и опыта в соседний БЦ и смотрим, сколько там за нас дадут. Хорошо, если дают больше. Плохо, если дают столько же — значит вы где-то застряли. Не очень хорошо, если дают значительно больше — это значит что вы отстали от понимания своей рыночной стоимости и уже недополучаете прибыль. Дальше, в зависимости от способностей сотрудника к коммуникации, в худшем случае начальству на стол ложится заявление, в среднем — шантаж оффером, в лучшем — даем компании шанс исправить и поднять зарплату на позитиве.&lt;/p&gt;
+
+&lt;p&gt;Я никогда не видел, чтобы внутри компании подымали зарплату больше, нежели человек мог получить просто выйдя на улицу и махнув рукой проезжающему мимо рекрутер-такси. Человек любит предсказуемость, любит прозрачность, но в случае с зарплатами у него один сплошной туман войны и практически никто ничего с этим не делает.&lt;/p&gt;
+
+&lt;p&gt;Поэтому, я настоятельно рекомендую всем раз в год (как флюографию) проходить собеседования в других компаниях и сравнивать свою стоимость с рыночной. Пока этот аргумент остается лучшим в переговорах, нужно им пользоваться.&lt;/p&gt;
+
+&lt;p&gt;Какие еще есть варианты исправить положение? О, отличный рецепт, это плата за результат, за выполненную работу (например, закрытый баг). Но об этом позже.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>О найме в компанию и на проекты</title>
+      <link>http://localhost:1313/ru/post/company-vs-project/</link>
+      <pubDate>Sat, 17 Nov 2018 10:02:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ru/post/company-vs-project/</guid>
+      
+        <description>&lt;p&gt;Наниматься в компанию или проект? &amp;ldquo;Работать в нашем банке — большая честь&amp;rdquo; ©&lt;/p&gt;
+
+&lt;p&gt;Думаю, все помнят притчу о мотивации — где три каменотеса на вопрос, чем они заняты, отвечали, последовательно, &amp;ldquo;я обтесываю камень и несчастен потому что мало платят&amp;rdquo;, &amp;ldquo;я обтесываю камень и рад что у меня есть работа и я могу кормить семью&amp;rdquo; и &amp;ldquo;я строю храм!&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Задачей и мотивацией каждого инженера должно быть именно строительство храмов. Не работа ради денег, не работа ради работы, а работа ради осязаемого результата. Вы должны увидеть результаты своего труда и увидеть, как им пользуются люди (или машины, в зависимости от того, что вы делаете).  Поэтому не стоит особенное внимание уделять компании, где вы работаете, компании все примерно на одно лицо, а вот проекты — совершенно разные. В рамках одной и той же корпорации вы можете работать на продукте которым уже пользуются и видеть осязаемые метрики на которые вы влияете, а можете сидеть на поддержке уже давно сделанных (не вами) решений и прикручивать еще одну формочку там и еще одну кнопочку тут. Можете делать высокотехнологичный стартап &amp;ldquo;в стол&amp;rdquo; который выстрелит неизвестно когда и не получает реальных пользователей, а можете быстро из говна из палок собрать MVP который уже через несколько месяцев начнет приносить какие-то деньги.&lt;/p&gt;
+
+&lt;p&gt;Любое техническое решение, каким бы красивым и изящным оно не казалось вначале, так или иначе превращается в набор костылей под давлением бизнеса. Поэтому, чем быстрее то, что вы делаете, попадает на рынок, тем лучше для вас, как специалиста, потому что вот тут-то и начинается настоящее веселье. Желательно пережить это веселье до того момента, пока продукт не стабилизируется, ну а дальше уже можно искать новые проекты (в рамках существующего продукта или нет — дело другое).&lt;/p&gt;
+
+&lt;p&gt;Чем больше у вас запущенных и сделанных проектов — тем лучше для вас, как с точки зрения психологической (не остается незакрытых гештальтов) так и с точки зрения профессиональной – вы можете открыто аппелировать к своему опыту в разработке законченного решения, понимаете трудности каждого из этапов разработки и имеете опыт в эксплуатации решения.
+Как выбирать проекты? Вы должны понимать, чему вы научитесь на конкретном проекте, как профессионал. Конечно же, сложность проектов должна возрастать с каждым следующим, технологии должны усложняться а ваш импакт — должен становиться все выше. Как только вы начинаете чувствовать что ничего нового не получаете — вы попали в зону комфорта и надо срочно оттуда валить.&lt;/p&gt;
+
+&lt;p&gt;За первые 8 лет своей профессиональной деятельности я не выпустил ни один проект в продакшн. Я работал на старте проектов, а дальше, как только все было налажено переходил на другие проекты.
+За последний год я сделал практически с нуля и запустил 2 проекта, которым активно пользуются люди.&lt;/p&gt;
+
+&lt;p&gt;Не будьте как я. Не тратьте 8 лет на работу в стол и на постоянные переходы между разными проектами.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/ru/cv/</link>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ru/cv/</guid>
+      
+        <description>
+
+&lt;p&gt;Software engineer, technical/team lead, people manager.&lt;/p&gt;
+
+&lt;p&gt;Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…&lt;/p&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;software-architect-engineer-manager-at-devlify-kyiv-ukraine&#34;&gt;Software Architect/Engineer/Manager at Devlify, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;Dec 2015 – Present&lt;/p&gt;
+
+&lt;p&gt;I am responsible for APMCheck &lt;a href=&#34;http://apm-check.ru/&#34;&gt;http://apm-check.ru/&lt;/a&gt; architecture and reliability.
+Built CI/CD stuff, infrastructure-as-a-code, setup DB backups and replication, designed backend using PHP (initial version) and then re-wrote all on Java/Spring Boot, wrote admin UI using Ruby on Rails.
+Built image similarity comparison service using OpenCV.
+Tech used: Spring Boot, MariaDB, Ruby on Rails, AWS S3/SQS/Lambda, Jelastic.&lt;/p&gt;
+
+&lt;p&gt;I am responsible for Grably &lt;a href=&#34;http://www.grably.net/&#34;&gt;http://www.grably.net/&lt;/a&gt; architecture and reliability.
+Tech used: Ruby on Rails for UI, dashboards and batch jobs, Python/Scrapy/Splash for scraping, OpenCV for images comparison, Postgresql.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s biggest my achievements in this position, apart from that I&amp;rsquo;ve built a lot of prototypes for sales demos and smaller services/apps.&lt;/p&gt;
+
+&lt;h3 id=&#34;software-development-engineer-at-onedome-kyiv-ukraine&#34;&gt;Software Development Engineer at OneDome, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;June 2015 – present&lt;/p&gt;
+
+&lt;p&gt;Working mostly with infrastructure and site reliability of &lt;a href=&#34;http://www.onedome.com&#34;&gt;OneDome&lt;/a&gt;.
+Employee #2 and first software engineer here. Designed and built microservices blueprints using Spring Boot, Netflix OSS stack, Docker, AWS ECS and CloudFormation for infrastructure-as-a-code.
+Built blue-green CI/CD pipelines using Jenkins Pipelines.
+Wrote a lot of custom stuff related to deployment and monitoring.&lt;/p&gt;
+
+&lt;p&gt;Tech used: Spring Boot, Spring Cloud Netflix (Eureka/Ribbon/Zuul/Hystrix), almost all AWS services, Java, Python, Node, Bash.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-manager-at-netcracker-kyiv-ukraine&#34;&gt;Technical Manager at NetCracker, Kyiv, Ukraine&lt;/h3&gt;
+
+&lt;p&gt;January 2013 – May 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CRM REST APIs project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: development of REST API’s for existing NC components&lt;/li&gt;
+&lt;li&gt;Acted as Project Manager, Technical Manager, SME&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve designed REST API’s for three business-critical NetCracker components&lt;/li&gt;
+&lt;li&gt;Proved that REST should be mainstream approach for building API’s&lt;/li&gt;
+&lt;li&gt;Created API guidelines and best practices for new components&lt;/li&gt;
+&lt;li&gt;Managed team from 4 devs, few QA’s and two performance engineers as lead architect and project manager&lt;/li&gt;
+&lt;li&gt;Delivered project in-time and in-budget&lt;/li&gt;
+&lt;li&gt;Technologies: Java, JAX-RS, Spring, rest-assured&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Order Entry project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: development of lot of new features in one of the most business critical and complex NC components – Business Order Entry. Team consisted from 30+ people including lead devs, devs, qa, performance guys, technical writers etc.&lt;/li&gt;
+&lt;li&gt;Acted as Technical Manager and SME&lt;/li&gt;
+&lt;li&gt;Built a team,  coached teamleads and senior devs, managed scope&lt;/li&gt;
+&lt;li&gt;Made a vital architectural decisions&lt;/li&gt;
+&lt;li&gt;Promoted changes in platform components – new ORM and other improvements&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, Test-Ng, WebDriver, Custom UI framework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;eCommerce project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: deliver self-service portal for one of US largest cable provider&lt;/li&gt;
+&lt;li&gt;Acted as Performance Engineer – resolved critical performance issues in solution&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, custom frameworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cloud architecture prototyping:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project goal: create proof-of-technology of how to deploy business applications into cloud/how to make them distributed&lt;/li&gt;
+&lt;li&gt;Acted as SME and Technical Consultant&lt;/li&gt;
+&lt;li&gt;Technologies: Java, Spring, Eureka, Hystrix, custom frameworks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
