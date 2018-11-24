@@ -1,0 +1,44 @@
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+        <li class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+        {{ if .HasChildren }}
+          <!-- drop down navigation MENU -->
+          <a class="menu-item-link menu-parent" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
+          <ul class="submenu">
+            {{ range .Children }}
+              <li>
+                <a href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          </ul>
+
+        {{ else }}
+          <!-- normal MENU -->
+          {{ if hasPrefix .URL "http" }}
+            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}" rel="noopener" target="_blank">
+              {{ .Name }}
+              {{/* icon new window */}}
+              <i class="iconfont">
+                {{ partial "svg/new_window.svg" }}
+              </i>
+            </a>
+          {{ else }}
+            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
+          {{ end }}
+
+        {{ end  }}
+
+      </li>
+    {{ end }}
+    {{ if and (gt (len .Site.Home.AllTranslations) 1) (.Site.Params.showMenuLanguageChooser | default false ) }}
+      {{- $.Scratch.Set "language" .Language -}}
+          {{ range .Site.Home.AllTranslations }}
+            {{ if ne ($.Scratch.Get "language") .Language }}
+                <a href="{{ .Permalink }}" class="language-selector">{{ .Language.LanguageName }}</a>
+            {{ end }}
+          {{ end }}
+    {{ end }}
+  </ul>
+</nav>

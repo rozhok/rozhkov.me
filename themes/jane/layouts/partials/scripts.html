@@ -1,0 +1,26 @@
+<!-- js -->
+{{ if .Site.Params.bootcdn -}}
+  <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdn.bootcss.com/slideout/1.0.1/slideout.min.js" crossorigin="anonymous"></script>
+{{- else if .Site.Params.publicCDN.enable -}}
+  {{ .Site.Params.publicCDN.jquery | safeHTML }}
+  {{ .Site.Params.publicCDN.slideout | safeHTML }}
+{{- else -}}
+  <script type="text/javascript" src="{{ "lib/jquery/jquery-3.2.1.min.js" | relURL }}"></script>
+  <script type="text/javascript" src="{{ "lib/slideout/slideout-1.0.1.min.js" | relURL }}"></script>
+{{- end }}
+
+<!-- Jane theme main js -->
+{{ $jsTemplate := resources.Get "js/main.js" }}
+{{ $secureJS := $jsTemplate | resources.ExecuteAsTemplate "js/main.js" . | fingerprint }}
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+<!-- End -->
+
+{{ if .Site.Params.commentCount.disqus.enable }}
+  <script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
+{{ end }}
+
+<!-- custom js -->
+{{ range .Site.Params.customJS }}
+  <script src="{{ "/js/" | relURL }}{{ . }}"></script>
+{{ end }}
