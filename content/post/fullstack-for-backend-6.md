@@ -1,7 +1,7 @@
 ---
 title: "Фуллстек. Фронтенд для бекендеров 6"
 date: 2019-03-22T10:30:00+02:00
-tags: ["rant"]
+tags: ["career", "advice"]
 ---
 
 Предыдущие серии: [1](https://t.me/full_of_hatred/85), [2](https://t.me/full_of_hatred/86), [3](https://t.me/full_of_hatred/88), [4](https://t.me/full_of_hatred/90), [5](https://t.me/full_of_hatred/92)

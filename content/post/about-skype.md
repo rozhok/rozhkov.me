@@ -1,7 +1,7 @@
 ---
 title: "О скайпе"
 date: 2018-12-04T10:30:00+02:00
-tags: ["rant"]
+tags: ["software", "rant"]
 ---
 
 Думаю, все читали статью Никиты Прокопова ["Software disenchantment"](http://tonsky.me/blog/disenchantment/) (в русском переводе "Моё разочарование в софте"). Если вдруг не читали — срочно читать.
