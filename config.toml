@@ -3,8 +3,8 @@ title = "Blog @ rozhkov.me"
 enableRobotsTXT = true
 theme = "jane"
 
-paginate = 5
-rssLimit = 20
+paginate = 16
+rssLimit = 64
 disqusShortname = "rozhkov"
 googleAnalytics = "UA-86260054-1"
 copyright = ""
