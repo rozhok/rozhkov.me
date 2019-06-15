@@ -4,12 +4,12 @@ date = "2016-10-25"
 menu = "main"
 +++
 
-Software engineer, technical/team lead, people manager. 
+Software architect, technical/team lead, people manager. 
 
 Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…
 ## Experience
 
-### Software Architect/Engineer/Manager at Devlify, Kyiv, Ukraine
+### Software Architect at Devlify, Kyiv, Ukraine
 Dec 2015 – Present
 
 I am responsible for APMCheck [http://apm-check.ru/](http://apm-check.ru/) architecture and reliability.
