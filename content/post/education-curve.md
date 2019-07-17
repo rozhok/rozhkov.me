@@ -23,4 +23,4 @@ tags: ["random"]
 
 "Я знаю кунг-фу"[^1] пока что не работает в реальной жизни, и это, конечно же, очень огорчает.
 
-[^1] [https://www.shmoop.com/quotes/i-know-kung-fu.html](https://www.shmoop.com/quotes/i-know-kung-fu.html)
+[^1]: [https://www.shmoop.com/quotes/i-know-kung-fu.html](https://www.shmoop.com/quotes/i-know-kung-fu.html)
