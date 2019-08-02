@@ -77,7 +77,7 @@ defaultContentLanguage = "ru"           # Default language to use
 
   toc = false
   photoswipe = false
-  bootcdn = true
+  bootcdn = false
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   google_verification = ""  # Google_Verification         # 谷歌
