@@ -24,9 +24,11 @@ tags: ["random"]
 Ярчайший пример использования простого инструмента для отличного продукта — это [NomadList](http://nomadlist.com). Человек сделал сайт на php, sqlite(!!!), хостит его на одной ноде (хоть и довольно мощной) обычного vps-хостинга (Linode) и заработал на этом (и других связанных продуктах) несколько миллионов долларов ([более точные цифры с графиками](https://nomadlist.com/open)). 
 
 Вот [прямая цитата](https://twitter.com/levelsio/status/1102089050352058368):
+
 >That single linode VPS takes 50,000,000+ requests per month for [http://nomadlist.com](http://nomadlist.com), [http://remoteok.io](http://remoteok.io) and all my other sites (with about 20% of that cached by Cloudflare)
 
 И [немного технических деталей](https://twitter.com/levelsio/status/1102487697220820994):
+
 >I run NGINX on a single shared Linode that runs all my sites with PHP-FPM running PHP 7.2 and SQLite. No Docker, Kubernetes, auto-scaling, or fancy stuff. Not even MySQL.
 
 Естественно, везде нужно искать баланс. Я не призываю становиться луддитом и возвращаться во времена CGI (что впрочем сейчас происходит в связке API Gateway + Lambda. Люди переизобретают старое). То, что сделано сейчас и работает так или иначе собирает кучу технического долга и просит быть переписанным. Но технари очень любят сдвигать баланс в другую сторону "давайте делать все правильно". И многие статьи, конференции и прочее как раз посвящены этим вопросам. Тогда как совсем не многие думают о том, что именно нужно реализовывать с помощью продвинутых инструментов. Про технику нужно думать, но и про душу не надо забывать. И наоборот.
