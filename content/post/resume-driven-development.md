@@ -1,6 +1,6 @@
 ---
 title: "Resume Driven Development"
-date: 2019-10-22T16:45:00+03:00
+date: 2019-10-16T16:45:00+03:00
 lastmod: 2019-10-22T16:45:00+03:00
 tags: ["work"]
 ---
