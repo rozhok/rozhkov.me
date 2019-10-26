@@ -1,27 +1,18 @@
 {{ if and .IsPage (ne .Params.comment false) }}
   <!-- Disqus -->
   {{- if .Site.DisqusShortname -}}
-  <div class="disqus-comment">
-  <div class="disqus-button" id="load_disqus" onclick="load_disqus()">
-    {{ i18n "loadDisqus" }}
-  </div>
   <div id="disqus_thread"></div>
   <script type="text/javascript">
     var disqus_config = function () {
       this.page.url = {{ .Permalink }};
     };
-    function load_disqus() {
-      // Don't ever inject Disqus on localhost--it creates unwanted
-      // discussions from 'localhost:1313' on your Disqus account...
-      if (window.location.hostname === 'localhost') return;
-
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
       var disqus_shortname = '{{ .Site.DisqusShortname }}';
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-
-      $('#load_disqus').remove();
-    };
+      s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', + new Date());
+      (d.head || d.body).appendChild(s);
+    })();
   </script>
   <noscript>Please enable JavaScript to view the
     <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
