@@ -44,6 +44,6 @@ tags: ["work"]
 Но фиксед прайс с хорошим заказчиком в моём случае пока ничего не бьет, ни по прибыльности, ни по количеству головняка.
 
 
-[^1]:[https://toggl.com/](https://toggl.com/)
-[^2]:[https://en.wikipedia.org/wiki/Time_and_materials](https://en.wikipedia.org/wiki/Time_and_materials)
-[^3]:[https://en.wikipedia.org/wiki/Fixed-price_contract](https://en.wikipedia.org/wiki/Fixed-price_contract)
+[^1]: [https://toggl.com/](https://toggl.com/)
+[^2]: [https://en.wikipedia.org/wiki/Time_and_materials](https://en.wikipedia.org/wiki/Time_and_materials)
+[^3]: [https://en.wikipedia.org/wiki/Fixed-price_contract](https://en.wikipedia.org/wiki/Fixed-price_contract)
