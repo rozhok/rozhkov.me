@@ -96,7 +96,7 @@ defaultContentLanguage = "ru"           # Default language to use
     enable = false
 
   [params.social]
-    a-email = "mailto:xpunker@gmail.com"
+    a-email = "mailto:xpunkerx@gmail.com"
     b-stack-overflow = "https://stackoverflow.com/users/1434854/vladimir-rozhkov?tab=profile"
     c-twitter = "https://twitter.com/xrozhokx"
     c-telegram = "https://t.me/full_of_hatred"
