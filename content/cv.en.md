@@ -6,21 +6,25 @@ menu = "main"
 
 Software architect, technical/team lead, people manager. 
 
-Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…
+Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, CI/CD, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…
 ## Experience
 
 ### Software Architect at Devlify, Kyiv, Ukraine
 Dec 2015 – Present
 
-I am responsible for APMCheck [http://apm-check.ru/](http://apm-check.ru/) architecture and reliability.
+I am currently responsible for APMCheck [http://apm-check.ru/](http://apm-check.ru/) architecture and reliability.
 Built CI/CD stuff, infrastructure-as-a-code, setup DB backups and replication, designed backend using PHP (initial version) and then re-wrote all on Java/Spring Boot, wrote admin UI using Ruby on Rails.
 Built image similarity comparison service using OpenCV.
 Tech used: Spring Boot, MariaDB, Ruby on Rails, AWS S3/SQS/Lambda, Jelastic.
 
-I am responsible for Grably [http://www.grably.net/](http://www.grably.net/) architecture and reliability.
-Tech used: Ruby on Rails for UI, dashboards and batch jobs, Python/Scrapy/Splash for scraping, OpenCV for images comparison, Postgresql.
+I am currently responsible for Grably [http://www.grably.net/](http://www.grably.net/) architecture and reliability.
+Tech used: Ruby on Rails for UI, dashboards and batch jobs, Python/Scrapy/Splash for scraping, OpenCV for images comparison, Postgresql. 
 
-That's biggest my achievements in this position, apart from that I've built a lot of prototypes for sales demos and smaller services/apps.
+Designed and built chatbots platform.
+
+Designed and built backend and data collection framework for unannounced yet Recruiting SaaS. 
+
+That's biggest my achievements in this position, apart from that I've designed, reviewed and built a lot of smaller services/apps and prototypes for sales demos.
 
 ### Software Development Engineer at OneDome, Kyiv, Ukraine
 June 2015 – present

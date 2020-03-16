@@ -4,7 +4,7 @@ date = "2016-10-25"
 menu = "main"
 +++
 
-Software engineer, technical/team lead, people manager. 
+Software architect, technical/team lead, people manager. 
 
 Java, Ruby/Ruby on Rails, Python, node.js, Bash, Spring (Boot/Cloud), Netflix OSS, AWS, Site Reliability Engineering, DevOps, (No)SQL, REST, Microservices, Docker, BDD/TDD, Gradle, Git, Jenkins, Jira, IntelliJ IDEA, etc…
 ## Experience
