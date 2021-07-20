@@ -1,6 +1,6 @@
 # Deprecation notice
 
-This code is now deprecated. I didn't found how to meet my publishing requirements with static website generator so I moved to the self-host [Ghost](https://github.com/TryGhost/Ghost). You still can use this site as some reference.
+This code is now deprecated. I didn't found how to meet my publishing requirements with static website generator so I moved to the self-hosted [Ghost](https://github.com/TryGhost/Ghost). You still can use this site as some reference.
 
 <img src="https://www.rozhkov.me/favicon.ico" width="16px" height="16px" />
 
